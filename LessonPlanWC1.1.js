@@ -4,3 +4,4 @@ function unit11() {
     document.getElementById('ThinkingSkills').value = "Concentration  -  Comprehension  -  Memory  -  Analysis of information  -  Application";
     document.getElementById('LectureClassCloseText').value = "Play the CD once again and now have the students point to the pictures on pages 2 and 3 and repeat along with you and the CD.";
     }
+window.unit11 = unit11;
